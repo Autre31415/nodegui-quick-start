@@ -1,0 +1,14 @@
+{
+  "name": "nodegui-quick-start",
+  "version": "0.1.0",
+  "main": "main.js",
+  "author": "Troy Coutu <Autre31415@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "qode main.js"
+  },
+  "dependencies": {
+    "@nodegui/nodegui": "^0.1.6"
+  }
+}
